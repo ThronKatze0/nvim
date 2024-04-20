@@ -1,6 +1,6 @@
 return {
   {
-    "transparent.nvim",
+    "xiyaowong/transparent.nvim",
     lazy = false,
     opts = {
       extra_groups = { -- table/string: additional groups that should be cleared
